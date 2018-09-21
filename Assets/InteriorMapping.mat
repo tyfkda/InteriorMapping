@@ -22,6 +22,34 @@ Material:
         m_Texture: {fileID: 8900000, guid: ebea8024614a343aab8d771a549b341a, type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - Texture2DArray_A7292D94:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_1241AC13:
+        m_Texture: {fileID: 2800000, guid: ed141388633994f80b489b76d57c0401, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_28D940AE:
+        m_Texture: {fileID: 2800000, guid: 461f2e2b9f4e34717bf9108ff8b37350, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_64626B37:
+        m_Texture: {fileID: 2800000, guid: dedcc823d4b72422e859f1f229b46b0f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_779B8505:
+        m_Texture: {fileID: 2800000, guid: 3ffd90c19bded4092ae41a4e157ff7e7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_CA7661D8:
+        m_Texture: {fileID: 2800000, guid: 83bb7b19d5f814e9e811d0d25ca4581d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_F9225DE8:
+        m_Texture: {fileID: 2800000, guid: 4817b51e518dc4e7ba910e652a54edea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BumpMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
