@@ -8,7 +8,7 @@ Material:
   m_PrefabInternal: {fileID: 0}
   m_Name: InteriorMapping
   m_Shader: {fileID: 4800000, guid: c5a42baa7df8946998e3317033982589, type: 3}
-  m_ShaderKeywords: 
+  m_ShaderKeywords: BOOLEAN_BA75E0B8_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -44,6 +44,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     - Texture2D_CA7661D8:
         m_Texture: {fileID: 2800000, guid: 83bb7b19d5f814e9e811d0d25ca4581d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_F06060F2:
+        m_Texture: {fileID: 2800000, guid: d6230578174e148099f04160306c58e4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_F9225DE8:
@@ -103,6 +107,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Boolean_BA75E0B8: 1
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
